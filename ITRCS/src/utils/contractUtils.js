@@ -5,9 +5,9 @@ import { bcs } from '@mysten/sui/bcs';
 // ========================= 全局配置与常量 =========================
 /** 合约配置常量 */
 export const CONTRACT_CONFIG = {
-  address: '0x5ba3b2b09a7f81d0a9198587b2fd51f40bb44bec9a7ec3b520b9d81432ec02c0',
+  address: '0x************************************************',
   moduleName: 'merchant_payment',
-  globalStateId: '0x99c067e70e1da1c51f15ea7a561791e5608dc099ebc1502b92cda97573a4f393',
+  globalStateId: '0x***************************************************************',
   fullnodeUrl: getFullnodeUrl('testnet'),
 };
 
@@ -560,4 +560,5 @@ export default {
   fetchMerchantRiskReport,
   fetchMerchantTransactions,
   CONTRACT_CONFIG, // 导出配置供外部使用
+
 };
