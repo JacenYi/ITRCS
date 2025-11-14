@@ -75,7 +75,7 @@ const AppLayout = () => {
         <div className="header-content">
           <div className="logo">
             <img src={Logo} alt="ITRCS Logo" className="logo-icon" />
-            <span className="logo-text">ITRCS</span>
+            <span className="logo-text">TRACS</span>
           </div>
           <nav className="header-nav">
             <a href="/merchant-upload" className="nav-link">
