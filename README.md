@@ -1,4 +1,4 @@
-# Intelligent Trading Risk Control System
+# Transaction Risk Analysis & Control System（TRACS） Demo Video Script
 
 **AI × Data × Decentralized Storage for Intelligent Transaction Risk Management**
 
@@ -6,7 +6,7 @@
 
 ## Product Overview
 
-**Intelligent Trading Risk Control System** is a next-generation risk control system designed for e-commerce and payment platforms, leveraging **AI-driven analytics** and **decentralized storage via Walrus** to detect and prevent money laundering and other illicit transaction activities.
+**Transaction Risk Analysis & Control System（TRACS） Demo Video Script** is a next-generation risk control system designed for e-commerce and payment platforms, leveraging **AI-driven analytics** and **decentralized storage via Walrus** to detect and prevent money laundering and other illicit transaction activities.
 
 The system collects on-chain transaction data, merchant registration information, and historical transaction patterns in real-time, applies AI models to assess risk and generate actionable recommendations, and stores critical metadata, merchant profiles, and risk results on the **Walrus decentralized storage network**. This creates a **verifiable, tamper-resistant, and auditable record of every transaction**.
 
